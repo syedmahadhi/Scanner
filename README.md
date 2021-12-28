@@ -31,7 +31,7 @@ py scan.py --list_capture_devices
 And then start the scan workflow:
 
 ```
-py scan.py --capture_device_id 2 --storage_path "c:\users\jonashw\Google Drive\Work Scans"
+py scan.py --capture_device_id 2 --storage_path "c:\users\Developer\Work Scans"
 ```
 
 1. Press [SPACE] to scan each page
